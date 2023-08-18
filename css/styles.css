@@ -245,7 +245,7 @@ hr {
 
 /*...................MEDIA QUERY FOR MOBILE USERS............................................*/
 
-@media(max-width:1000px) {
+@media(max-width:1028px) {
     .logo {
         width: 100px;
     }
